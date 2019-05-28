@@ -60,4 +60,5 @@ def transfer():
 
 
 if __name__ == '__main__':
+    num = 3
     app.run(port=11000)
